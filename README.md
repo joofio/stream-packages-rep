@@ -53,8 +53,7 @@ project.org/web/packages/gStream/index.html)
 * [ffstream](http://www.deanbodenham.com/ffstream/) - Forgetting Factor Methods for Change Detection in Streaming Data
  An implementation of the adaptive forgetting factor scheme described in Bodenham and Adams (2016) which adaptively estimates the mean and variance of a stream in order to detect multiple changepoints in streaming data. [CRAN](https://cran.r-project.org/web/packages/ffstream/index.html)  
 
-* [AWR-Kinesis](https://github.com/daroczig/AWR.Kinesis
- https://aws.amazon.com/pt/kinesis/) - Amazon 'Kinesis' Consumer Application for Stream Processing
+* [AWR-Kinesis](https://github.com/daroczig/AWR.Kinesis) - Amazon 'Kinesis' Consumer Application for Stream Processing
  Fetching data from Amazon 'Kinesis' Streams using the Java-based 'MultiLangDaemon' interacting with Amazon Web Services ('AWS') for easy stream processing from R.nThis R package is a wrapper around and an interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon, which is part of the Amazon KCL for Java. [CRAN](https://cran.r-project.org/web/packages/AWR.Kinesis/index.html)  
 
 * [rRAP](https://github.com/cran/rRAP) - Real-Time Adaptive Penalization for Streaming Lasso Models
