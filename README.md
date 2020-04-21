@@ -3,14 +3,11 @@ A curated repository of stream packages for R grouped by type.
 
 
 ### Interface  
-* [stream](https://github.com/mhahsler/stream) - Infrastructure for Data Stream Mining [CRAN](https://cran.r-project.org/web/packages/stream/index.html) 
-* [stream] (https://github.com/mhahsler/stream) - stream - Infrastructure for Data Stream Mining [CRAN](https://cran.r-project.org/web/packages/stream/index.html)
+* [stream](https://github.com/mhahsler/stream) - Infrastructure for Data Stream Mining [CRAN](https://cran.r-project.org/web/packages/stream/index.html)  
 *[streamMOA] (https://github.com/mhahsler/streamMOA) - streamMOA - Interface for MOA Stream Clustering Algorithms - R package.
- An extension package for stream. [CRAN](https://cran.r-project.org/web/packages/streamMOA/index.html)
-*[RMOA] (https://github.com/jwijffels/RMOA) - To interface R with MOA (Massive On-line Analysis open-sourced framework that allows to build and run experiments of machine learning or data mining on evolving data streams).
- RMOA focusses on classification models [CRAN](https://cran.r-project.org/web/packages/RMOA/index.html)
-"[streamR] (https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R.
- This package includes a series of functions that give R users access to Twitter's Streaming API, as well as a tool that parses the captured tweets and transforms them in R data frames, which can then be used in subsequent analyses. [CRAN](https://cran.r-project.org/web/packages/streamR/index.html)"
+ An extension package for stream. [CRAN](https://cran.r-project.org/web/packages/streamMOA/index.html)  
+* [RMOA] (https://github.com/jwijffels/RMOA) - To interface R with MOA (Massive On-line Analysis open-sourced framework that allows to build and run experiments of machine learning or data mining on evolving data streams). RMOA focusses on classification models [CRAN](https://cran.r-project.org/web/packages/RMOA/index.html)
+* [streamR] (https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R. This package includes a series of functions that give R users access to Twitter's Streaming API, as well as a tool that parses the captured tweets and transforms them in R data frames, which can then be used in subsequent analyses. [CRAN](https://cran.r-project.org/web/packages/streamR/index.html)  
 [Rstorm] (https://rdrr.io/cran/RStorm/man/RStream-package.html) - Package RStorm implements a streaming architecture modeled on Storm for easy development and testing of streaming algorithms in [R]. RStorm is not intended as a production package, but rather a development tool for streaming algorithms. [CRAN](https://cran.r-project.org/web/packages/RStorm/index.html)
 "[Sparklyr] (https://blog.rstudio.com/2018/10/01/sparklyr-0-9/) - R interface to Apache Spark, a fast and general engine for big data processing, see <http://spark.apache.org>. 
  This package supports connecting to local and remote Apache Spark clusters, provides a 'dplyr' compatible back-end, and provides an interface to Spark's built-in machine learning algorithms. [CRAN](https://cran.r-project.org/web/packages/sparklyr/index.html)"
