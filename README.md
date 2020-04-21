@@ -1,2 +1,6 @@
-# stream-packages-rep
-A curated repository of stream packages for R
+# Stream Packages for R
+A curated repository of stream packages for R grouped by type.
+
+
+### Interface  
+*stream 
