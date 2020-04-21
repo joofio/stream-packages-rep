@@ -8,9 +8,6 @@ A curated repository of stream packages for R grouped by type.
 * [streamMOA](https://github.com/mhahsler/streamMOA) - streamMOA - Interface for MOA Stream Clustering Algorithms - R package.
  An extension package for stream. [CRAN](https://cran.r-project.org/web/packages/streamMOA/index.html)  
 
-* [RMOA](https://github.com/jwijffels/RMOA) - To interface R with MOA (Massive On-line Analysis open-sourced framework that allows to build and run experiments of machine learning or data mining on evolving data streams). RMOA focusses on classification models [CRAN](https://cran.r-project.org/web/packages/RMOA/index.html)
-
-* [streamR](https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R. This package includes a series of functions that give R users access to Twitter's Streaming API, as well as a tool that parses the captured tweets and transforms them in R data frames, which can then be used in subsequent analyses. [CRAN](https://cran.r-project.org/web/packages/streamR/index.html)  
 
 * [streamMOA](https://github.com/mhahsler/streamMOA) - streamMOA - Interface for MOA Stream Clustering Algorithms - R package.
  An extension package for stream. [CRAN](https://cran.r-project.org/web/packages/streamMOA/index.html)  
@@ -108,7 +105,12 @@ project.org/web/packages/gStream/index.html)
 
 * [SSN](https://github.com/cran/SSN) - Spatial Modeling on Stream Networks
  Spatial statistical modeling and prediction for data on stream networks.
- Models are created using moving average constructions. Spatial linear models, including explanatory variables, can be fit with (restricted) maximum likelihood. [CRAN](https://cran.r-project.org/web/packages/SSN/index.html)  "
+ Models are created using moving average constructions. Spatial linear models, including explanatory variables, can be fit with (restricted) maximum likelihood. [CRAN](https://cran.r-project.org/web/packages/SSN/index.html)  
 
 * [StreamMetabolism](https://github.com/ssefick/StreamMetabolism) - StreamMetabolism: Calculate Single Station Metabolism from Diurnal Oxygen Curves
- Functions to calculate Gross Primary Productivity, Net Ecosystem Production, and Ecosystem Respiration from single station diurnal Oxygen curves. [CRAN](https://cran.r-project.org/web/packages/StreamMetabolism/index.html)  "
+ Functions to calculate Gross Primary Productivity, Net Ecosystem Production, and Ecosystem Respiration from single station diurnal Oxygen curves. [CRAN](https://cran.r-project.org/web/packages/StreamMetabolism/index.html)  
+ 
+ * [RMOA](https://github.com/jwijffels/RMOA) - To interface R with MOA (Massive On-line Analysis open-sourced framework that allows to build and run experiments of machine learning or data mining on evolving data streams). RMOA focusses on classification models [CRAN](https://cran.r-project.org/web/packages/RMOA/index.html)
+
+* [streamR](https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R. This package includes a series of functions that give R users access to Twitter's Streaming API, as well as a tool that parses the captured tweets and transforms them in R data frames, which can then be used in subsequent analyses. [CRAN](https://cran.r-project.org/web/packages/streamR/index.html)  
+
