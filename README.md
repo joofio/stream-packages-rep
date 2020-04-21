@@ -66,7 +66,7 @@ Implements various mainstream and specialised changepoint methods for finding si
  
  
  
- ### modelling
+ ### Modelling
 * [RMOA](https://github.com/jwijffels/RMOA) - To interface R with MOA (Massive On-line Analysis open-sourced framework that allows to build and run experiments of machine learning or data mining on evolving data streams).
  RMOA focusses on classification models [CRAN](https://cran.r-project.org/web/packages/RMOA/index.html) 
  
@@ -74,3 +74,43 @@ Implements various mainstream and specialised changepoint methods for finding si
  An implementation of the Real-time Adaptive Penalization (RAP) algorithm through which to iteratively update a regularization parameter in a streaming context. [CRAN](https://cran.r-project.org/web/packages/rRAP/index.html)  
  
  
+### Other
+
+* [rlecuyer](http://www.iro.umontreal.ca/~lecuyer/myftp/papers/streams00.pdf) - Provides an interface to the C implementation of the random number generator with multiple independent streams developed by L'Ecuyer et al (2002). 
+ The main purpose of this package is to enable the use of this random number generator in parallel R applications. [CRAN](https://cran.r-project.org/web/packages/rlecuyer/index.html)  
+
+* [Ghost](https://www.researchgate.net/publication/332779980_Ghost_Imputation_Accurately_Reconstructing_Missing_Data_of_the_Off_Period) - Missing Data Segments Imputation in Multivariate Streams [CRAN](https://cran.r-project.org/web/packages/Ghost/index.html)  
+
+* [rstream](http://statmath.wu.ac.at/arvag/) - Streams of Random Numbers. Unified object oriented interface for multiple independent streams of random numbers from different sources. [CRAN](https://cran.r-project.org/web/packages/rstream/index.html)  
+
+* [clickstream]() - Analyzes Clickstreams Based on Markov Chains
+ A set of tools to read, analyze and write lists of click sequences on websites (i.e., clickstream). A click can be represented by a number, character or string. Clickstreams can be modeled as zero- (only computes occurrence probabilities), first- or higher-order Markov chains. [CRAN](https://cran.r-project.org/web/packages/clickstream/index.html)  
+
+* [oddstream](https://github.com/pridiltal/oddstream) - Outlier Detection in Data Streams
+ A framework that provides real time support for early detection of anomalous series within a large collection of streaming time series data.
+ The algorithm first forecasts a boundary for the system's typical behaviour using a representative sample of the typical behaviour of the system. Then a sliding window is used to test for anomalous series within the newly arrived collection of series. [CRAN](https://cran.r-project.org/web/packages/oddstream/index.html)  
+
+* [FlowScreen](https://rdrr.io/cran/FlowScreen/man/FlowScreen.html) - Daily Streamflow Trend and Change Point Screening
+ Screens daily streamflow time series for temporal trends and change-points.
+ The package was designed for screening daily streamflow time series from Water Survey Canada and the United States Geological Survey but will also work with streamflow time series from many other agencies. [CRAN](https://cran.r-project.org/web/packages/FlowScreen/index.html)  
+
+* [PRSim](https://git.math.uzh.ch/reinhard.furrer/PRSim-devel) - Stochastic Simulation of Streamflow Time Series using Phase Randomization
+ Provides a simulation framework to simulate streamflow time series with similar main characteristics as observed data. [CRAN](https://cran.r-project.org/web/packages/PRSim/index.html)  
+
+* [lfstat](https://github.com/mundl/lfstat) - Calculation of Low Flow Statistics for Daily Stream Flow Data
+ The ""Manual on Low-flow Estimation and Prediction"", published by the World Meteorological Organisation (WMO), gives a comprehensive summary on how to analyse stream flow data focusing on low-flows. 
+ This packages provides functions to compute the described statistics and produces plots similar to the ones in the manual. [CRAN](https://cran.r-project.org/web/packages/lfstat/index.html)  
+
+* [streamDepletr](https://github.com/FoundrySpatial/streamDepletr) - Estimate Streamflow Depletion Due to Groundwater Pumping
+ Implementation of analytical models for estimating streamflow depletion due to groundwater pumping, and other related tools [CRAN](https://cran.r-project.org/web/packages/streamDepletr/index.html)  
+
+* [smnet]() - Smoothing for Stream Network Data
+ Fits flexible additive models to data on stream networks, taking account of flow-connectivity of the network. 
+ Models are fitted using penalised least squares. [CRAN](https://cran.r-project.org/web/packages/smnet/index.html)  
+
+* [SSN](https://github.com/cran/SSN) - Spatial Modeling on Stream Networks
+ Spatial statistical modeling and prediction for data on stream networks.
+ Models are created using moving average constructions. Spatial linear models, including explanatory variables, can be fit with (restricted) maximum likelihood. [CRAN](https://cran.r-project.org/web/packages/SSN/index.html)  
+
+* [StreamMetabolism](https://github.com/ssefick/StreamMetabolism) - StreamMetabolism: Calculate Single Station Metabolism from Diurnal Oxygen Curves
+ Functions to calculate Gross Primary Productivity, Net Ecosystem Production, and Ecosystem Respiration from single station diurnal Oxygen curves. [CRAN](https://cran.r-project.org/web/packages/StreamMetabolism/index.html)  
