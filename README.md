@@ -17,7 +17,7 @@ A curated repository of stream packages for R grouped by type.
 * [Rstorm](https://rdrr.io/cran/RStorm/man/RStream-package.html) - Package RStorm implements a streaming architecture modeled on Storm for easy development and testing of streaming algorithms in [R]. RStorm is not intended as a production package, but rather a development tool for streaming algorithms. [CRAN](https://cran.r-project.org/web/packages/RStorm/index.html)  
 
 
-### integration/wrapper
+### Integration/wrapper
 
 * [streamR](https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R.
  This package includes a series of functions that give R users access to Twitter's Streaming API, as well as a tool that parses the captured tweets and transforms them in R data frames, which can then be used in subsequent analyses. [CRAN](https://cran.r-project.org/web/packages/streamR/index.html)  
@@ -42,7 +42,7 @@ A curated repository of stream packages for R grouped by type.
  files and “flatten” the structure out to enable working with the data in
  an R ‘data.frame’-like context. [CRAN](https://cran.r-project.org/web/packages/ndjson/index.html)  
  
- ### data stream classification
+ ### Data stream classification
  
 * [eventstream](https://sevvandi.github.io/eventstream/index.html) - Streaming Events and their Early Classification.
  Implements event extraction and early classification of events in data streams in R. 
